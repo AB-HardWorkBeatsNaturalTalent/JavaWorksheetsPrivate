@@ -1,0 +1,23 @@
+public class PGMImage{
+  
+  private String filename;
+  private int width;
+  private int height;
+  private int maxShade;
+  private int[][] pixels;
+  
+  public pGMImage(String filename){
+    this.filename = filename;
+    this.width = //figure out how to get the width from inputting a filename
+    this.height = //figure out how to get the height of a PGM from inputting a file
+    this.maxShae = //figure out how to get the maxShade of  PGM from inputting a file
+    this.pixels = //figure out the syntax to link the pixels of a read file to the values within a 2-dim array
+  }
+  
+  //write getters
+  
+  //write setters
+
+
+
+}
